@@ -13,12 +13,6 @@
 <br>
 CCLEO BOT tem a função de manter a ordem em seus grupos de whatsap, e entreter seus menbros com algumas funçoes exclusivas.
 Consulte nossa lista completa de comandos aqui `ccleo comandos READMEs profile`.
-
-If you are intersted, will create a PR for to add your `README` profile here.
-
-Tenha uma boa experiencia :star:
-
-List of `awesome README Profile` categories mentioned below
 ## Website
 
 Link : https://ccleo.online
